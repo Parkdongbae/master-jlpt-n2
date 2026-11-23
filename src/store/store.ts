@@ -4,7 +4,7 @@ import { DEFAULT_SETTINGS, POS_LIST, type Kanji, type Section, type UserData, ty
 import { cloud } from './firebase'
 
 /** 가입 암호의 SHA-256("mjn:" + 암호). 원문은 소스에 두지 않는다. */
-const JOIN_HASH = '9e27f43919cbfc9554d36016c25899e95cd43e4dfdaabf0971774705646fb227'
+const JOIN_HASH = 'cab0ab54003c8b4145cf27a5fbfc62da5451e85c6401dbfdb15733c66e7eed1a'
 const KEY_CURRENT = 'mjn:current'
 const userKey = (name: string) => `mjn:u:${name}`
 
