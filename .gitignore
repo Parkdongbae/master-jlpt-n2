@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/raw/
+data/work/
+.env*.local
+.vercel/
+*.log
+__pycache__/

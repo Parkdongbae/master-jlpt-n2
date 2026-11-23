@@ -1,0 +1,72 @@
+.games { gap: 14px; }
+.g-wrap { display: flex; flex-direction: column; gap: 12px; }
+.g-banner { background: var(--accent-soft); color: var(--text); border-radius: 14px; padding: 12px 14px; font-weight: 700; }
+.g-cap { display: flex; flex-direction: column; gap: 8px; }
+
+.g-entry { display: flex; align-items: center; gap: 14px; text-align: left; width: 100%; min-height: 76px; }
+.g-entry b { display: block; font-size: 17px; }
+.g-icon { font-size: 30px; width: 44px; text-align: center; flex: none; }
+.g-desc { display: block; font-size: 13px; line-height: 1.4; }
+.g-best { display: flex; flex-direction: column; align-items: center; min-width: 44px; flex: none; }
+.g-best b { font-size: 18px; color: var(--primary); font-variant-numeric: tabular-nums; }
+
+.g-time { font-size: 28px; font-weight: 800; font-variant-numeric: tabular-nums; }
+.g-pts { font-size: 18px; font-weight: 800; color: var(--primary); min-width: 64px; text-align: right; font-variant-numeric: tabular-nums; }
+.g-pen { background: var(--bad-soft); color: var(--bad); animation: pop 0.35s; }
+
+.g-q { display: flex; flex-direction: column; align-items: center; gap: 8px; text-align: center; min-height: 130px; justify-content: center; }
+.g-prompt { font-size: clamp(30px, 9vw, 40px); font-weight: 800; word-break: break-word; line-height: 1.2; }
+.g-prompt.long { font-size: clamp(20px, 6vw, 26px); word-break: keep-all; line-height: 1.4; }
+.g-hintline { min-height: 21px; }
+
+.g-options { display: grid; grid-template-columns: 1fr; gap: 10px; }
+.g-opt {
+  min-height: 56px; padding: 8px 14px; border-radius: 14px; background: var(--surface);
+  border: 2px solid var(--line); font-size: 17px; font-weight: 700; text-align: center; word-break: keep-all;
+}
+.g-opt:active { transform: scale(0.98); }
+.g-opt.ok { background: var(--ok-soft); border-color: var(--ok); color: var(--ok); }
+.g-opt.bad { background: var(--bad-soft); border-color: var(--bad); color: var(--bad); }
+.g-opt:disabled { opacity: 1; }
+.g-opt:disabled:not(.ok):not(.bad) { opacity: 0.45; }
+
+.g-grid { display: grid; gap: 8px; }
+.g-tile {
+  min-height: 72px; border-radius: 12px; background: var(--primary); color: var(--primary-ink);
+  font-size: 22px; font-weight: 800; padding: 4px; display: grid; place-items: center;
+  transition: transform 0.2s, background 0.2s;
+}
+.g-tile span { display: block; max-width: 100%; word-break: break-word; line-height: 1.2; }
+.g-tile.up { background: var(--surface); color: var(--text); border: 2px solid var(--primary); font-size: 15px; transform: rotateY(0); animation: pop 0.25s; }
+.g-tile.up.ko { border-color: var(--accent); }
+.g-tile.small.up { font-size: 12px; }
+.g-tile.small { min-height: 64px; }
+.g-tile.done { background: var(--ok-soft); border-color: var(--ok); color: var(--ok); }
+
+.g-slots {
+  min-height: 64px; border-radius: 14px; border: 2px dashed var(--line); background: var(--surface);
+  padding: 8px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: center;
+}
+.g-slots.ok { border-style: solid; border-color: var(--ok); background: var(--ok-soft); }
+.g-slots.bad { border-style: solid; border-color: var(--bad); background: var(--bad-soft); }
+.g-slots.shake { animation: g-shake 0.3s; border-color: var(--bad); }
+@keyframes g-shake { 25% { transform: translateX(-6px); } 75% { transform: translateX(6px); } }
+.g-tray { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; min-height: 52px; }
+.g-piece {
+  min-width: 44px; min-height: 48px; padding: 0 14px; border-radius: 12px; background: var(--primary-soft);
+  color: var(--primary); font-size: 20px; font-weight: 800;
+}
+.g-piece.on { background: var(--primary); color: var(--primary-ink); }
+.g-piece:disabled { opacity: 0.25; }
+
+.g-actions { display: flex; flex-direction: column; gap: 10px; }
+.g-actions.row { flex-direction: row; gap: 8px; }
+.g-actions.row .btn { min-height: 44px; padding: 0 6px; font-size: 13px; }
+
+.g-result { display: flex; flex-direction: column; align-items: center; gap: 10px; text-align: center; }
+.g-score { font-size: 56px; font-weight: 800; line-height: 1.1; color: var(--primary); font-variant-numeric: tabular-nums; }
+.g-score small { font-size: 20px; margin-left: 4px; }
+.g-new { animation: pop 0.6s; }
+.g-lines { display: flex; flex-direction: column; gap: 4px; }
+.g-wrong { display: flex; flex-direction: column; gap: 12px; }
+.g-box { align-self: stretch; min-height: 44px; }

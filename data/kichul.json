@@ -1,0 +1,3378 @@
+{
+ "items": [
+  {
+   "exam": "2022-07",
+   "section": "reading",
+   "word": "記憶",
+   "reading": "きおく",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "reading",
+   "word": "偉い",
+   "reading": "えらい",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "reading",
+   "word": "途端",
+   "reading": "とたん",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "reading",
+   "word": "務める",
+   "reading": "つとめる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "reading",
+   "word": "素材",
+   "reading": "そざい",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "writing",
+   "word": "昇る",
+   "reading": "のぼる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "writing",
+   "word": "垂直",
+   "reading": "すいちょく",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "writing",
+   "word": "住居",
+   "reading": "じゅうきょ",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "writing",
+   "word": "備える",
+   "reading": "そなえる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "writing",
+   "word": "典型的",
+   "reading": "てんけいてき",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "formation",
+   "word": "異分野",
+   "reading": "いぶんや",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "formation",
+   "word": "顔写真付き",
+   "reading": "かおじゃしんつき",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "formation",
+   "word": "低価格",
+   "reading": "ていかかく",
+   "confirmed": false,
+   "src": [
+    0,
+    2
+   ],
+   "note": "출처 간 정답 불일치(安/低). 低価格로 수록"
+  },
+  {
+   "exam": "2022-07",
+   "section": "context",
+   "word": "交渉",
+   "reading": "こうしょう",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "context",
+   "word": "クリア",
+   "reading": "くりあ",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "context",
+   "word": "劣る",
+   "reading": "おとる",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "context",
+   "word": "劇的",
+   "reading": "げきてき",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "context",
+   "word": "接続",
+   "reading": "せつぞく",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "context",
+   "word": "締め切る",
+   "reading": "しめきる",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "context",
+   "word": "ぞろぞろ",
+   "reading": "ぞろぞろ",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "synonym",
+   "word": "衝突",
+   "reading": "しょうとつ",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "synonym",
+   "word": "再三",
+   "reading": "さいさん",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "synonym",
+   "word": "でたらめ",
+   "reading": "でたらめ",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "synonym",
+   "word": "勘定",
+   "reading": "かんじょう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "synonym",
+   "word": "騒がしい",
+   "reading": "さわがしい",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "synonym",
+   "word": "ぶつかる",
+   "reading": "ぶつかる",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "synonym",
+   "word": "何度も",
+   "reading": "なんども",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "synonym",
+   "word": "うそ",
+   "reading": "うそ",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "synonym",
+   "word": "会計",
+   "reading": "かいけい",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "synonym",
+   "word": "うるさい",
+   "reading": "うるさい",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "usage",
+   "word": "温厚",
+   "reading": "おんこう",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "usage",
+   "word": "濁る",
+   "reading": "にごる",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "usage",
+   "word": "世代",
+   "reading": "せだい",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "usage",
+   "word": "普及",
+   "reading": "ふきゅう",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-07",
+   "section": "usage",
+   "word": "生じる",
+   "reading": "しょうじる",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "reading",
+   "word": "警備",
+   "reading": "けいび",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "reading",
+   "word": "刺激",
+   "reading": "しげき",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "reading",
+   "word": "外れる",
+   "reading": "はずれる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "reading",
+   "word": "世間",
+   "reading": "せけん",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "reading",
+   "word": "勇ましい",
+   "reading": "いさましい",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "writing",
+   "word": "欲",
+   "reading": "よく",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "writing",
+   "word": "俳優",
+   "reading": "はいゆう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "writing",
+   "word": "離れる",
+   "reading": "はなれる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "writing",
+   "word": "診断",
+   "reading": "しんだん",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "writing",
+   "word": "等しい",
+   "reading": "ひとしい",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "formation",
+   "word": "現制度",
+   "reading": "げんせいど",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    5
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "formation",
+   "word": "用心深い",
+   "reading": "ようじんぶかい",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    5
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "formation",
+   "word": "貴団体",
+   "reading": "きだんたい",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    5
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "context",
+   "word": "違反",
+   "reading": "いはん",
+   "confirmed": false,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "context",
+   "word": "設備",
+   "reading": "せつび",
+   "confirmed": false,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "context",
+   "word": "進出",
+   "reading": "しんしゅつ",
+   "confirmed": false,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "context",
+   "word": "まれ",
+   "reading": "まれ",
+   "confirmed": false,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "context",
+   "word": "苦情",
+   "reading": "くじょう",
+   "confirmed": false,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "context",
+   "word": "ぎっしり",
+   "reading": "ぎっしり",
+   "confirmed": false,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "context",
+   "word": "抱く",
+   "reading": "いだく",
+   "confirmed": false,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "synonym",
+   "word": "テクニック",
+   "reading": "てくにっく",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "synonym",
+   "word": "書籍",
+   "reading": "しょせき",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "synonym",
+   "word": "一転",
+   "reading": "いってん",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "synonym",
+   "word": "尖る",
+   "reading": "とがる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "synonym",
+   "word": "くだらない",
+   "reading": "くだらない",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "synonym",
+   "word": "技術",
+   "reading": "ぎじゅつ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "synonym",
+   "word": "本",
+   "reading": "ほん",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "usage",
+   "word": "頑固",
+   "reading": "がんこ",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "usage",
+   "word": "打ち合わせ",
+   "reading": "うちあわせ",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "usage",
+   "word": "中断",
+   "reading": "ちゅうだん",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "usage",
+   "word": "ベテラン",
+   "reading": "べてらん",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2022-12",
+   "section": "usage",
+   "word": "荒れる",
+   "reading": "あれる",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "reading",
+   "word": "運賃",
+   "reading": "うんちん",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "reading",
+   "word": "乱れる",
+   "reading": "みだれる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "reading",
+   "word": "模範",
+   "reading": "もはん",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "reading",
+   "word": "険しい",
+   "reading": "けわしい",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "reading",
+   "word": "握手",
+   "reading": "あくしゅ",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "writing",
+   "word": "布",
+   "reading": "ぬの",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "writing",
+   "word": "福祉",
+   "reading": "ふくし",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "writing",
+   "word": "捨てる",
+   "reading": "すてる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "writing",
+   "word": "機嫌",
+   "reading": "きげん",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "writing",
+   "word": "損失",
+   "reading": "そんしつ",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "formation",
+   "word": "無回答",
+   "reading": "むかいとう",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "formation",
+   "word": "日本風",
+   "reading": "にほんふう",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "formation",
+   "word": "壁際",
+   "reading": "かべぎわ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "context",
+   "word": "誤解",
+   "reading": "ごかい",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "context",
+   "word": "好調",
+   "reading": "こうちょう",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "context",
+   "word": "頼もしい",
+   "reading": "たのもしい",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "context",
+   "word": "節約",
+   "reading": "せつやく",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "context",
+   "word": "飛びつく",
+   "reading": "とびつく",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "context",
+   "word": "求人",
+   "reading": "きゅうじん",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "context",
+   "word": "こそこそ",
+   "reading": "こそこそ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "synonym",
+   "word": "惜しい",
+   "reading": "おしい",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "synonym",
+   "word": "テンポ",
+   "reading": "てんぽ",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "synonym",
+   "word": "たちまち",
+   "reading": "たちまち",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "synonym",
+   "word": "概要",
+   "reading": "がいよう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "synonym",
+   "word": "油断",
+   "reading": "ゆだん",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "synonym",
+   "word": "もったいない",
+   "reading": "もったいない",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "synonym",
+   "word": "速さ",
+   "reading": "はやさ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "synonym",
+   "word": "すぐに",
+   "reading": "すぐに",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "usage",
+   "word": "早期",
+   "reading": "そうき",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "usage",
+   "word": "偉大",
+   "reading": "いだい",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "usage",
+   "word": "印",
+   "reading": "しるし",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "usage",
+   "word": "続出",
+   "reading": "ぞくしゅつ",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2023-07",
+   "section": "usage",
+   "word": "妨げる",
+   "reading": "さまたげる",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "reading",
+   "word": "腕",
+   "reading": "うで",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "reading",
+   "word": "善良",
+   "reading": "ぜんりょう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "reading",
+   "word": "幼い",
+   "reading": "おさない",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "reading",
+   "word": "削除",
+   "reading": "さくじょ",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "reading",
+   "word": "平等",
+   "reading": "びょうどう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "writing",
+   "word": "管理",
+   "reading": "かんり",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "writing",
+   "word": "研修",
+   "reading": "けんしゅう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "writing",
+   "word": "絶えず",
+   "reading": "たえず",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "writing",
+   "word": "投票",
+   "reading": "とうひょう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "writing",
+   "word": "抱える",
+   "reading": "かかえる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "formation",
+   "word": "対抗心",
+   "reading": "たいこうしん",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "formation",
+   "word": "諸手続き",
+   "reading": "しょてつづき",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "formation",
+   "word": "二人連れ",
+   "reading": "ふたりづれ",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "context",
+   "word": "話題",
+   "reading": "わだい",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "context",
+   "word": "後悔",
+   "reading": "こうかい",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "context",
+   "word": "リハーサル",
+   "reading": "りはーさる",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "context",
+   "word": "特定",
+   "reading": "とくてい",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "context",
+   "word": "かさかさ",
+   "reading": "かさかさ",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "context",
+   "word": "まねる",
+   "reading": "まねる",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "context",
+   "word": "盛り上がる",
+   "reading": "もりあがる",
+   "confirmed": true,
+   "src": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "synonym",
+   "word": "各自",
+   "reading": "かくじ",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "synonym",
+   "word": "仕上げる",
+   "reading": "しあげる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "synonym",
+   "word": "深刻",
+   "reading": "しんこく",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "synonym",
+   "word": "同僚",
+   "reading": "どうりょう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "synonym",
+   "word": "うつむく",
+   "reading": "うつむく",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "synonym",
+   "word": "一人一人",
+   "reading": "ひとりひとり",
+   "confirmed": false,
+   "src": [
+    0,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "synonym",
+   "word": "重大",
+   "reading": "じゅうだい",
+   "confirmed": false,
+   "src": [
+    0,
+    4
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "usage",
+   "word": "廃止",
+   "reading": "はいし",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "usage",
+   "word": "腫れる",
+   "reading": "はれる",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "usage",
+   "word": "上達",
+   "reading": "じょうたつ",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "usage",
+   "word": "暮れ",
+   "reading": "くれ",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2023-12",
+   "section": "usage",
+   "word": "残高",
+   "reading": "ざんだか",
+   "confirmed": true,
+   "src": [
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "reading",
+   "word": "詳細",
+   "reading": "しょうさい",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "reading",
+   "word": "分析",
+   "reading": "ぶんせき",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "reading",
+   "word": "絡まる",
+   "reading": "からまる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "reading",
+   "word": "農薬",
+   "reading": "のうやく",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "reading",
+   "word": "鮮やか",
+   "reading": "あざやか",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "writing",
+   "word": "志望",
+   "reading": "しぼう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "writing",
+   "word": "短編",
+   "reading": "たんぺん",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "writing",
+   "word": "散る",
+   "reading": "ちる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "writing",
+   "word": "柔らかい",
+   "reading": "やわらかい",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "writing",
+   "word": "疲労",
+   "reading": "ひろう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "formation",
+   "word": "主原料",
+   "reading": "しゅげんりょう",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "formation",
+   "word": "読書離れ",
+   "reading": "どくしょばなれ",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "formation",
+   "word": "決定権",
+   "reading": "けっていけん",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "context",
+   "word": "もてなす",
+   "reading": "もてなす",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "context",
+   "word": "通過",
+   "reading": "つうか",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "context",
+   "word": "インパクト",
+   "reading": "いんぱくと",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "context",
+   "word": "報道",
+   "reading": "ほうどう",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "context",
+   "word": "多大",
+   "reading": "ただい",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "context",
+   "word": "溶け込む",
+   "reading": "とけこむ",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "context",
+   "word": "そそっかしい",
+   "reading": "そそっかしい",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "synonym",
+   "word": "おおよそ",
+   "reading": "おおよそ",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "synonym",
+   "word": "行儀",
+   "reading": "ぎょうぎ",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "synonym",
+   "word": "威張る",
+   "reading": "いばる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "synonym",
+   "word": "収納",
+   "reading": "しゅうのう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "synonym",
+   "word": "不平",
+   "reading": "ふへい",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "synonym",
+   "word": "だいたい",
+   "reading": "だいたい",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "synonym",
+   "word": "マナー",
+   "reading": "まなー",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "synonym",
+   "word": "しまう",
+   "reading": "しまう",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "synonym",
+   "word": "文句",
+   "reading": "もんく",
+   "confirmed": true,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "usage",
+   "word": "共有",
+   "reading": "きょうゆう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "usage",
+   "word": "鋭い",
+   "reading": "するどい",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "usage",
+   "word": "はきはき",
+   "reading": "はきはき",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "usage",
+   "word": "鑑賞",
+   "reading": "かんしょう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-07",
+   "section": "usage",
+   "word": "着々",
+   "reading": "ちゃくちゃく",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "reading",
+   "word": "優秀",
+   "reading": "ゆうしゅう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "reading",
+   "word": "迷う",
+   "reading": "まよう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "reading",
+   "word": "背骨",
+   "reading": "せぼね",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "reading",
+   "word": "実践",
+   "reading": "じっせん",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "reading",
+   "word": "衣装",
+   "reading": "いしょう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "writing",
+   "word": "警備",
+   "reading": "けいび",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "writing",
+   "word": "避難",
+   "reading": "ひなん",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "writing",
+   "word": "敬う",
+   "reading": "うやまう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "writing",
+   "word": "受講",
+   "reading": "じゅこう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "writing",
+   "word": "厚かましい",
+   "reading": "あつかましい",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "formation",
+   "word": "名選手",
+   "reading": "めいせんしゅ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "formation",
+   "word": "最接近",
+   "reading": "さいせっきん",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "formation",
+   "word": "私宛て",
+   "reading": "わたしあて",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "context",
+   "word": "完了",
+   "reading": "かんりょう",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "context",
+   "word": "衰える",
+   "reading": "おとろえる",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "context",
+   "word": "省略",
+   "reading": "しょうりゃく",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "context",
+   "word": "思い込む",
+   "reading": "おもいこむ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "context",
+   "word": "口調",
+   "reading": "くちょう",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "context",
+   "word": "役目",
+   "reading": "やくめ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "context",
+   "word": "ずうずうしい",
+   "reading": "ずうずうしい",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "synonym",
+   "word": "ガイド",
+   "reading": "がいど",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "synonym",
+   "word": "修正",
+   "reading": "しゅうせい",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "synonym",
+   "word": "徐々に",
+   "reading": "じょじょに",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "synonym",
+   "word": "はげる",
+   "reading": "はげる",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "synonym",
+   "word": "しぐさ",
+   "reading": "しぐさ",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "synonym",
+   "word": "案内",
+   "reading": "あんない",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "synonym",
+   "word": "直す",
+   "reading": "なおす",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "synonym",
+   "word": "次第に",
+   "reading": "しだいに",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "synonym",
+   "word": "取れる",
+   "reading": "とれる",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "synonym",
+   "word": "動作",
+   "reading": "どうさ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "usage",
+   "word": "薄める",
+   "reading": "うすめる",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "usage",
+   "word": "充実",
+   "reading": "じゅうじつ",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "usage",
+   "word": "鮮明",
+   "reading": "せんめい",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "usage",
+   "word": "ふもと",
+   "reading": "ふもと",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2024-12",
+   "section": "usage",
+   "word": "定年",
+   "reading": "ていねん",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "reading",
+   "word": "才能",
+   "reading": "さいのう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "reading",
+   "word": "辛い",
+   "reading": "からい",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "reading",
+   "word": "刑事",
+   "reading": "けいじ",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "reading",
+   "word": "起床",
+   "reading": "きしょう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "reading",
+   "word": "収まる",
+   "reading": "おさまる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "writing",
+   "word": "湿る",
+   "reading": "しめる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "writing",
+   "word": "傾向",
+   "reading": "けいこう",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "writing",
+   "word": "視察",
+   "reading": "しさつ",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "writing",
+   "word": "削る",
+   "reading": "けずる",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "writing",
+   "word": "施設",
+   "reading": "しせつ",
+   "confirmed": true,
+   "src": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "formation",
+   "word": "教育論",
+   "reading": "きょういくろん",
+   "confirmed": false,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "formation",
+   "word": "食べづらい",
+   "reading": "たべづらい",
+   "confirmed": false,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "formation",
+   "word": "悪条件",
+   "reading": "あくじょうけん",
+   "confirmed": false,
+   "src": [
+    0,
+    2
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "context",
+   "word": "誓う",
+   "reading": "ちかう",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "context",
+   "word": "一時的",
+   "reading": "いちじてき",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "context",
+   "word": "関与",
+   "reading": "かんよ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "context",
+   "word": "べたべた",
+   "reading": "べたべた",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "context",
+   "word": "反則",
+   "reading": "はんそく",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "context",
+   "word": "追い払う",
+   "reading": "おいはらう",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "context",
+   "word": "スタイル",
+   "reading": "すたいる",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "synonym",
+   "word": "妙",
+   "reading": "みょう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "synonym",
+   "word": "相当",
+   "reading": "そうとう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "synonym",
+   "word": "やかましい",
+   "reading": "やかましい",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "synonym",
+   "word": "帰省",
+   "reading": "きせい",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "synonym",
+   "word": "いきなり",
+   "reading": "いきなり",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "synonym",
+   "word": "不思議",
+   "reading": "ふしぎ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "synonym",
+   "word": "かなり",
+   "reading": "かなり",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "synonym",
+   "word": "うるさい",
+   "reading": "うるさい",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "synonym",
+   "word": "突然",
+   "reading": "とつぜん",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "usage",
+   "word": "潰す",
+   "reading": "つぶす",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "usage",
+   "word": "粗末",
+   "reading": "そまつ",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "usage",
+   "word": "熱中",
+   "reading": "ねっちゅう",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "usage",
+   "word": "和やか",
+   "reading": "なごやか",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2025-07",
+   "section": "usage",
+   "word": "愛着",
+   "reading": "あいちゃく",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "reading",
+   "word": "柱",
+   "reading": "はしら",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "reading",
+   "word": "討論",
+   "reading": "とうろん",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "reading",
+   "word": "統一",
+   "reading": "とういつ",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "reading",
+   "word": "争う",
+   "reading": "あらそう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "reading",
+   "word": "豊富",
+   "reading": "ほうふ",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "writing",
+   "word": "略す",
+   "reading": "りゃくす",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "writing",
+   "word": "涼む",
+   "reading": "すずむ",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "writing",
+   "word": "拡充",
+   "reading": "かくじゅう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "writing",
+   "word": "救う",
+   "reading": "すくう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "writing",
+   "word": "濃厚",
+   "reading": "のうこう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "formation",
+   "word": "先着順",
+   "reading": "せんちゃくじゅん",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "formation",
+   "word": "仮予約",
+   "reading": "かりよやく",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "formation",
+   "word": "発",
+   "reading": "はつ",
+   "confirmed": false,
+   "src": [
+    0
+   ],
+   "note": "접미사 ~発(9時発). 단독 접사 항목"
+  },
+  {
+   "exam": "2025-12",
+   "section": "context",
+   "word": "予防",
+   "reading": "よぼう",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "context",
+   "word": "ステージ",
+   "reading": "すてーじ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "context",
+   "word": "要約",
+   "reading": "ようやく",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "context",
+   "word": "飛び散る",
+   "reading": "とびちる",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "context",
+   "word": "敏感",
+   "reading": "びんかん",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "context",
+   "word": "裏づける",
+   "reading": "うらづける",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "context",
+   "word": "くたくた",
+   "reading": "くたくた",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "synonym",
+   "word": "一致",
+   "reading": "いっち",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "synonym",
+   "word": "題",
+   "reading": "だい",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "synonym",
+   "word": "騒々しい",
+   "reading": "そうぞうしい",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "synonym",
+   "word": "用心",
+   "reading": "ようじん",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "synonym",
+   "word": "ぶかぶか",
+   "reading": "ぶかぶか",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "synonym",
+   "word": "タイトル",
+   "reading": "たいとる",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "synonym",
+   "word": "うるさい",
+   "reading": "うるさい",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "synonym",
+   "word": "注意",
+   "reading": "ちゅうい",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "usage",
+   "word": "休憩",
+   "reading": "きゅうけい",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "usage",
+   "word": "進める",
+   "reading": "すすめる",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "usage",
+   "word": "貢献",
+   "reading": "こうけん",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "usage",
+   "word": "早急",
+   "reading": "さっきゅう",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2025-12",
+   "section": "usage",
+   "word": "区切り",
+   "reading": "くぎり",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "reading",
+   "word": "濃い",
+   "reading": "こい",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "reading",
+   "word": "競技",
+   "reading": "きょうぎ",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "reading",
+   "word": "消毒",
+   "reading": "しょうどく",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "reading",
+   "word": "構う",
+   "reading": "かまう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "reading",
+   "word": "知人",
+   "reading": "ちじん",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "writing",
+   "word": "睡眠",
+   "reading": "すいみん",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "writing",
+   "word": "資源",
+   "reading": "しげん",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "writing",
+   "word": "補う",
+   "reading": "おぎなう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "writing",
+   "word": "説教",
+   "reading": "せっきょう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "writing",
+   "word": "鮮やか",
+   "reading": "あざやか",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "formation",
+   "word": "各グループ",
+   "reading": "かくぐるーぷ",
+   "confirmed": false,
+   "src": [
+    0
+   ],
+   "note": "정답 미표기, 해설 기반 추정"
+  },
+  {
+   "exam": "2026-07",
+   "section": "formation",
+   "word": "大統領制",
+   "reading": "だいとうりょうせい",
+   "confirmed": false,
+   "src": [
+    0
+   ],
+   "note": "정답 미표기, 해설 기반 추정"
+  },
+  {
+   "exam": "2026-07",
+   "section": "formation",
+   "word": "卵大",
+   "reading": "たまごだい",
+   "confirmed": false,
+   "src": [
+    0
+   ],
+   "note": "정답 미표기, 해설 기반 추정"
+  },
+  {
+   "exam": "2026-07",
+   "section": "context",
+   "word": "判断",
+   "reading": "はんだん",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "context",
+   "word": "もともと",
+   "reading": "もともと",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "context",
+   "word": "調整",
+   "reading": "ちょうせい",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "context",
+   "word": "赤字",
+   "reading": "あかじ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "context",
+   "word": "おおざっぱ",
+   "reading": "おおざっぱ",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "context",
+   "word": "たくましい",
+   "reading": "たくましい",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "context",
+   "word": "それる",
+   "reading": "それる",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "synonym",
+   "word": "メーカー",
+   "reading": "めーかー",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "synonym",
+   "word": "はやる",
+   "reading": "はやる",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "synonym",
+   "word": "一括",
+   "reading": "いっかつ",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "synonym",
+   "word": "思いがけない",
+   "reading": "おもいがけない",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "synonym",
+   "word": "いっそう",
+   "reading": "いっそう",
+   "confirmed": true,
+   "src": [
+    0,
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "synonym",
+   "word": "流行",
+   "reading": "りゅうこう",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "synonym",
+   "word": "もっと",
+   "reading": "もっと",
+   "confirmed": false,
+   "src": [
+    0
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "usage",
+   "word": "要点",
+   "reading": "ようてん",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "usage",
+   "word": "裂ける",
+   "reading": "さける",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "usage",
+   "word": "経過",
+   "reading": "けいか",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "usage",
+   "word": "打ち消す",
+   "reading": "うちけす",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  },
+  {
+   "exam": "2026-07",
+   "section": "usage",
+   "word": "さっと",
+   "reading": "さっと",
+   "confirmed": false,
+   "src": [
+    1
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "url": "https://www.jlptzhen.com/n2test/",
+   "title": "jlptzhen N2真题在线做 (회차별 페이지, 무료 공개분 1~25번 + 해설)",
+   "lang": "zh"
+  },
+  {
+   "url": "https://okjlpt.com/zh-Hans/n2/papers/2025-07",
+   "title": "OK JLPT N2 papers/<YYYY-MM> '词汇题考到的词' (회차별 20단어: 問題1,2,5,6)",
+   "lang": "zh"
+  },
+  {
+   "url": "https://jpnihon.com/jlptn2",
+   "title": "日本！日本语 N2真题在线 (2022-07, 2022-12, 2023-07 일부, 2023-12, 2024-07, 2025-07 일부)",
+   "lang": "zh"
+  },
+  {
+   "url": "https://pipiwaiyu.com/exam/jlpt-n2",
+   "title": "皮皮外语 JLPT N2 真题 (무료 공개분 1~11번만 확인: 2023-12, 2025-07)",
+   "lang": "zh"
+  },
+  {
+   "url": "https://www.jlptzhen.com/2023%E5%B9%B412%E6%9C%8803%E6%97%A5n2%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88%E6%B1%87%E6%80%BB/",
+   "title": "jlptzhen 2023年12月03日 N2 考试答案汇总",
+   "lang": "zh"
+  },
+  {
+   "url": "https://www.diliushixian.com/information/3548.html",
+   "title": "第六时限 2022年12月 N2 参考答案 (검색 스니펫의 問題3 정답번호 431만 대조, 본문 fetch 실패)",
+   "lang": "zh"
+  }
+ ]
+}
