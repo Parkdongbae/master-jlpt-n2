@@ -46,6 +46,12 @@ export function unpack(doc: Record<string, unknown>): UserData {
   return { ...(rest as unknown as UserData), cards, days: JSON.parse((days as string) || '{}') }
 }
 
+/**
+ * 영어 단어 앱과 같은 Firebase 프로젝트를 함께 쓴다. 보안 규칙이 users·ranking 두 곳만 열어 두므로
+ * 같은 컬렉션 안에서 문서 이름과 week 값에 "n2:" 를 붙여 영어 앱 데이터와 섞이지 않게 한다.
+ */
+const NS = 'n2:'
+
 async function connect(): Promise<Cloud> {
   const [{ initializeApp }, { getAuth, signInAnonymously }, fs] = await Promise.all([
     import('firebase/app'),
@@ -57,16 +63,16 @@ async function connect(): Promise<Cloud> {
   await signInAnonymously(getAuth(app))
   return {
     async pull(name) {
-      const snap = await fs.getDoc(fs.doc(db, 'n2users', name))
+      const snap = await fs.getDoc(fs.doc(db, 'users', NS + name))
       return snap.exists() ? unpack(snap.data()) : null
     },
     async push(user, today) {
-      await fs.setDoc(fs.doc(db, 'n2users', user.name), pack(user))
-      const week = weekKey(today)
-      await fs.setDoc(fs.doc(db, 'n2ranking', `${week}_${user.name}`), { week, name: user.name, xp: weekXp(user.days, today) })
+      await fs.setDoc(fs.doc(db, 'users', NS + user.name), pack(user))
+      const week = NS + weekKey(today)
+      await fs.setDoc(fs.doc(db, 'ranking', `${week}_${user.name}`), { week, name: user.name, xp: weekXp(user.days, today) })
     },
     async ranking(today) {
-      const q = fs.query(fs.collection(db, 'n2ranking'), fs.where('week', '==', weekKey(today)))
+      const q = fs.query(fs.collection(db, 'ranking'), fs.where('week', '==', NS + weekKey(today)))
       const snap = await fs.getDocs(q)
       return snap.docs.map((d) => d.data() as RankRow).sort((a, b) => b.xp - a.xp)
     },
